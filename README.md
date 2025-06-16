@@ -1,5 +1,5 @@
 
-#Analysis-of-Emotional-Expressions-in-Sinhala-Music-Video-Comments-on-YouTube
+# Analysis-of-Emotional-Expressions-in-Sinhala-Music-Video-Comments-on-YouTube
 
 Understanding and classifying emotions on social media is important for many areas such as sentiment analysis, product improvement, social science studies, personalized recommendations, and even monitoring mental health.
 This study focuses on recognizing emotions in Sinhala comments on YouTube songs. The study uses Russell’s Valence-Arousal (V-A) model, which provides a deeper understanding of emotions than just labeling them as positive or negative. This model explains emotions using two dimensions: valence (how pleasant or unpleasant an emotion is) and arousal (how intense or calm the emotion is). By placing comments in this two-dimensional space, we can better visualize and analyze emotional responses to different songs.
