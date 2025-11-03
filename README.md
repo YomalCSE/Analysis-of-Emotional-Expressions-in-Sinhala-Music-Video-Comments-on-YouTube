@@ -40,5 +40,24 @@ This study gathered Sinhala-language comments from a wide range of YouTube music
 | S19        | Thaniwennata Mage Lowe     | Classic Pop Music  |
 | S20        | Unmada Prema Geeya         | R&B            |
 
+## 📖 Citing this work
 
+If you use the original dataset which is not annotated, please cite the following:
 
+```bibtex
+@article{de2025linguistic,
+  title={Linguistic Analysis of Sinhala YouTube Comments on Sinhala Music Videos: A Dataset Study},
+  author={De Mel, WM and de Silva, Nisansa},
+  journal={arXiv preprint arXiv:2501.18633},
+  year={2025}
+}
+
+If you use the annotated dataset, please cite the following:
+
+```bibtex
+@article{de2025linguistic,
+  title={Linguistic Analysis of Sinhala YouTube Comments on Sinhala Music Videos: A Dataset Study},
+  author={De Mel, WM and de Silva, Nisansa},
+  journal={arXiv preprint arXiv:2501.18633},
+  year={2025}
+}
